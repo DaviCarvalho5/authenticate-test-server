@@ -1,0 +1,43 @@
+h1, h2, h3, p, label, input, buttom, ul, li {
+  font-family: monospace;
+  margin: 0;
+}
+
+body {
+  text-align: center;
+}
+
+header {
+  border-bottom: solid black 1px;
+  padding: 24px 0 24px 0;
+}
+
+section {
+  padding: 24px 0 24px 0;
+}
+
+footer {
+  border-top: solid black 1px;
+  padding: 24px 0 24px 0;
+}
+
+h2 {
+  margin-bottom: 12px;
+}
+
+ul {
+  padding: 0;
+}
+
+li {
+  list-style: none;
+  display: inline;
+}
+
+label {
+  display: block;
+}
+
+input {
+  margin-bottom: 12px;
+}
